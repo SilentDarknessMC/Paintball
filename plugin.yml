@@ -1,8 +1,10 @@
-name: SDMCFireworkPlugin
-main: me.SDMC.SDMCFireworkPlugin.main
-version: 2.0
-description: >
-             SDMCsPlugin
+name: SDMC Firework Plugin
+main: com.silentdarknessmc.firework.Main
+description:  >
+              SDMC's Firework Plugin
+version: 2.2
+author: SDMC
+
 commands:
   shoot:
-    description: Shoot A Firework From Where You Are Standing!
+    description: Shoot A Firework From Where You're Standing!
